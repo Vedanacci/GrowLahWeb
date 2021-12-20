@@ -13,18 +13,11 @@
  * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
  */
- @media (min-width: 1800px) {
-  .HydroSideBar {
-    width: 10vw !important;
-  }
-   
- }
- @media (min-width: 960px) and (max-width: 1300px) {
+ @media (min-width: 960px) {
   .makeStyles-mainPanel-2 {
-    width: calc(100% - 190px) !important;
-   }
-   
+  width: calc(85%) !important;
  }
+}
  @media (max-width: 960px) {
   .HydroSideBar {
     display: none !important;
@@ -39,11 +32,6 @@
  .bigLabel {
    font-size: 20px !important;
    text-align: center !important;
- }
-}
- @media (min-width: 1300px) {
-  .makeStyles-mainPanel-2 {
-  width: calc(100% - 260) !important;
  }
 }
 
