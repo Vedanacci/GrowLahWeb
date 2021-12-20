@@ -1,0 +1,53 @@
+  
+  .Login {
+    padding: 60px 0;
+  }
+
+  .Login form {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+
+  .log-in-container{
+    margin-top: 3vh;
+  }
+
+  .biglogo{
+    width: 500px;
+    height: 500px;
+  }
+  .video-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 10vh;
+
+  }
+
+  .attribute{
+    display: flex;
+  }
+  .submit{
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    width: 100%;
+    }
+
+    .form-group{
+      margin-bottom: 2vh;
+    }
+
+    .textbox{
+      width: 98%;
+      height: 30px;
+    }
+
+    .form-group{
+      width: 100%;
+    }
+
+
